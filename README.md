@@ -344,7 +344,8 @@ OR:
     - I loved this book. It covered everything and more.
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-
+- [ ] [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
+	- Перевод на русском.
 
 ### Optional Books
 
